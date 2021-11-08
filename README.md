@@ -6,4 +6,5 @@
 - 💬 Ask me about solving problems (I am very good at that)
 - 📫 How to reach me: marco.buschini@gmail.com
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
-- ⚡ Fun fact: I love X-Files, Doctor Who, Warehouse 13, Origami, Photography, and many other private things 😊.
+- ⚡ Fun fact: I love X-Files, Doctor Who, Warehouse 13, Origami, Photography, and many other private things 😊
+- 😄 Wishlist: This is my [Amazon Wishlist](https://www.amazon.it/hz/wishlist/ls/1FT8ML2ECU2P4?ref_=wl_share), just in case you appreciate my repositories.
